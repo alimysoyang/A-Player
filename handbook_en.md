@@ -19,35 +19,35 @@
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/1.png)
 
 ## Local Video's List
-> 支持文件排序(文件名或创建时间)，多级目录管理，单文件删除，批量删除，记录播放进度
+> Support file sorting (file name or creation time), multi-level directory management, single file deletion, batch deletion, record playback progress
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/2.png)
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/3.png)
 
 ## Video Library
-> 视频库有多个频道，丰富的在线视频供您选择观看，建议在WiFi状态下观看，使用蜂窝数据观看会产生相关流量费用，播放质量会依据您所在的蜂窝数据环境的不同，而产生不同的效果，您可以单月订购(每个频道每月$0.99)，也可以每年订购(每个频道每年$2.99)。**一定要进入具体的视频页面再点击播放按钮进行播放，否则会播放失败，或播放错误视频**
+> The video library has multiple channels, and a lot of online videos are available for you to watch. It is recommended to watch in the WiFi state. The use of cellular data viewing will generate related traffic charges.  you can order in a single month ($0.99 per channel per month) or you can order each year ($2.99 per channel per year). **Be sure to enter the video detail page and click the play button to play it, otherwise it will play the game or play the wrong video.**
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/5.png)
 
-> 视频库频道视频浏览，搜索视频
+> Video library channels videos browsing, search videos
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/6.png)
 
-> **进入具体播放视频页面，再点击播放按钮进行播放**
+> **Go to the video's detail page, then click the play button to play**
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/6-1-cn.png)
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/6-2-cn.png)
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/6-3-cn.png)
 
-> 视频播放，等待视频加载，如果视频无法播放，请在列表中选择其他的播放地址
+> Video playback, waiting for the video to load, if the video can not play, please select another play address in the list
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/7.png)
 
-> 视频开始播放
+> Start playing video
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/8.png)
 
-> 视频播放历史，视频播放时会记录已播放的视频，方便回看
+> Video playback history, the video will be recorded when the video is played, it is convenient to look back
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/4.png)

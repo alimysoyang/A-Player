@@ -26,7 +26,7 @@
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/3.png)
 
 ## Video Library (视频库)
-> 视频库有多个频道，丰富的在线视频供您选择观看，建议在WiFi状态下观看，使用蜂窝数据观看会产生相关流量费用，播放质量会依据您所在的蜂窝数据环境的不同，而产生不同的效果，您可以单月订购(每个频道每月$0.99)，也可以每年订购(每个频道每年$2.99)。
+> 视频库有多个频道，丰富的在线视频供您选择观看，建议在WiFi状态下观看，使用蜂窝数据观看会产生相关流量费用，播放质量会依据您所在的蜂窝数据环境的不同，而产生不同的效果，您可以单月订购(每个频道每月$0.99)，也可以每年订购(每个频道每年$2.99)。**一定要进入具体的视频页面再点击播放按钮进行播放，否则会播放失败，或播放错误视频**
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/5.png)
 
@@ -34,7 +34,7 @@
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/6.png)
 
-> 进入具体播放视频页面
+> **进入具体播放视频页面，再点击播放按钮进行播放**
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/6-1-cn.png)
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/6-2-cn.png)

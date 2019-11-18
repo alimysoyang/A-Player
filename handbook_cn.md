@@ -1,6 +1,6 @@
 # aPlayer使用手册
 
-## app首页
+### app首页
 * Local Video's List (本地视频)
        * 本地视频列表，通过Wifi方式传输app支持格式的视频(mkv,avi,mp4,mpeg,rmvb,flv,wmv)到app中，点击进行本地播放
        
@@ -18,7 +18,7 @@
        
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/1.png)
 
-## Local Video's List (本地视频)
+### Local Video's List (本地视频)
 * 支持文件排序(文件名或创建时间)，单文件删除，批量删除，记录播放进度
 
 ![image](https://github.com/alimysoyang/A-Player/raw/master/Screenshots/2.png)

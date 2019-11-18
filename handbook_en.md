@@ -1,6 +1,6 @@
 # aPlayer HandBook
 
-## app首页
+## app Home
 * Local Video's List 
 > Local video list, transfer the video of the app support format (mkv, avi, mp4, mpeg, rmvb, flv, wmv) to the app via Wifi, click to play locally
        
